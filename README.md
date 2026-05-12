@@ -1,6 +1,6 @@
 # DSC680_Repository
 README.md
-# Data Analytics Portfolio – Your Name
+# Data Analytics Portfolio – Courtney L. Johnson
 
 ## Overview
 This portfolio showcases data analytics and data science projects focused on public sector, healthcare, financial, and operational data.
