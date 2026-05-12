@@ -3,7 +3,10 @@ README.md
 # Data Analytics Portfolio – Courtney L. Johnson
 
 ## Overview
-This portfolio showcases data analytics and data science projects focused on public sector, healthcare, financial, and operational data.
+About
+
+    I am a data analytics professional with experience in federal program analysis, healthcare analytics, grant management, and financial reporting. My portfolio highlights projects that use Python, SQL, Power BI, Excel, and machine learning to transform data into actionable insights.
+    My work focuses on helping organizations improve decision-making, identify risk, monitor performance, and communicate results clearly.
 
 ## Skills and Tools
 - Python
@@ -14,8 +17,10 @@ This portfolio showcases data analytics and data science projects focused on pub
 - Data Visualization
 
 ## Projects
+- Grant Financial Dashboard - A Power BI dashboard designed to monitor federal grant balances, expenditures, available funds and risk indicators.
+  Tools: Power BI, Excel, DAX
+  View Project: 
 - Urban Crime Pattern Analysis
-- Grant Financial Dashboard
 - Workforce Training Completion Predictor
 - Healthcare Cost and Utilization Analysis
 - Public Safety Response Time Analysis
@@ -32,4 +37,9 @@ Explain how the folders are organized.
 Explain how to open each project.
 
 ## Contact
-Add your email, LinkedIn, or GitHub profile.
+Contact
+
+Email: your email address
+LinkedIn: [your LinkedIn profile link](https://www.linkedin.com/in/courtney-mccarroll-hart-948b311a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEIlRxFt%2FQJq3LRE%2FthFl0g%3D%3D)
+GitHub: https://github.com/courjohnson
+Email: Insert email or “Available upon request”
