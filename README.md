@@ -5,16 +5,31 @@ README.md
 ## Overview
 About
 
-    I am a data analytics professional with experience in federal program analysis, healthcare analytics, grant management, and financial reporting. My portfolio highlights projects that use Python, SQL, Power BI, Excel, and machine learning to transform data into actionable insights.
-    My work focuses on helping organizations improve decision-making, identify risk, monitor performance, and communicate results clearly.
+    My name is Courtney Johnson, and I am a data analytics professional with experience in federal program analysis, grant management, healthcare analytics, financial reporting, and business intelligence. Throughout my career, I have used data to support decision-making, improve operational efficiency, and provide stakeholders with meaningful insights.
+
+My portfolio demonstrates the application of data analytics, data science, and business intelligence techniques to real-world problems. The projects featured here showcase skills in data cleaning, exploratory data analysis, visualization, dashboard development, database design, machine learning, forecasting, and automation.
 
 ## Skills and Tools
-- Python
-- SQL
-- Power BI
-- Excel
-- Machine Learning
-- Data Visualization
+Python
+SQL
+Power BI
+Excel
+DAX
+Power Automate
+Machine Learning
+Data Visualization
+Data Modeling
+Statistical Analysis
+
+Areas of Interest
+Public Sector Analytics
+Grant Management and Oversight
+Healthcare Analytics
+Financial Analysis
+Predictive Analytics
+Business Intelligence
+
+My goal is to leverage data-driven solutions to help organizations improve performance, manage risk, and make informed decisions.
 
 ## Projects
 - Grant Financial Dashboard - A Power BI dashboard designed to monitor federal grant balances, expenditures, available funds and risk indicators.
